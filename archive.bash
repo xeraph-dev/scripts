@@ -3,6 +3,8 @@
 # Use of this source code is governed by a BSD-style
 # license that can be found in the LICENSE file.
 
+# a simple script to archive all your old and/or junk code
+
 REMOTE="origin"
 BRANCH="main"
 OWNER="$1"
